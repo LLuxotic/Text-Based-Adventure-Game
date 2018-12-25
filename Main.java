@@ -22,7 +22,7 @@ public class Main {
 		int attackDamage = 50; // Maximum damage player could to enemy
 		int numHealthPotions = 3; // Number of health pots player starts off with
 		int healthPotionHealAmount = 35; // Amount of health the potion heals for
-		int healthPotionDropChance = 60; // Everytime enemy dies chance the enemy will drop a health potion (in percentage) 
+		int healthPotionDropChance = 30; // Everytime enemy dies chance the enemy will drop a health potion (in percentage) 
 
 		boolean running = true;
 
